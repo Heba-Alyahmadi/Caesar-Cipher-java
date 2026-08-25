@@ -28,5 +28,5 @@ Input: java Caesar 3 "The ships hung in the sky in much the same way that bricks
 Output: Wkh vklsv kxqj lq wkh vnb lq pxfk wkh vdph zdb wkdw eulfnv grq'w.
 
 ## Project Context
--Developed as part of the COMP122 Object-Oriented Programming module at the University of Liverpool
--This program was part of an assessed portfolio, worth 50 marks, and received full marks (50/50).
+- Developed as part of the COMP122 Object-Oriented Programming module at the University of Liverpool
+- This program was part of an assessed portfolio, worth 50 marks, and received full marks (50/50).
