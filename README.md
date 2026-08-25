@@ -20,7 +20,7 @@ A Java implementation of the Caesar cipher for encrypting and decrypting text us
 
 The program accepts two command-line arguments:
 
-java Caesar <shift> "<text>"
+java Caesar SHIFT "TEXT"
 
 ## Example
 ### Input: 
