@@ -23,9 +23,9 @@ The program accepts two command-line arguments:
 java Caesar <shift> "<text>"
 
 ## Example
-Input: java Caesar 3 "The ships hung in the sky in much the same way that bricks don't."
+### Input: java Caesar 3 "The ships hung in the sky in much the same way that bricks don't."
 
-Output: Wkh vklsv kxqj lq wkh vnb lq pxfk wkh vdph zdb wkdw eulfnv grq'w.
+### Output: Wkh vklsv kxqj lq wkh vnb lq pxfk wkh vdph zdb wkdw eulfnv grq'w.
 
 ## Project Context
 - Developed as part of the COMP122 Object-Oriented Programming module at the University of Liverpool
